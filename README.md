@@ -1,1 +1,1 @@
-ola mundo, criei um read me do projeto
+ola mundo, criei um readme do projeto
